@@ -11,12 +11,12 @@ client = TelegramClient('taxi_session', api_id, api_hash)
 
 # =================== SKIP CHAT ID ===================
 SKIP_CHAT_IDS = [
-    -1003564910158
+    -1003452892635
 ]
 
 # =================== TARGET CHAT ID ===================
 TARGET_CHAT_IDS = [
-    -1003564910158
+    -1003452892635
 ]
 
 # =================== KALIT SO‘ZLAR ===================
